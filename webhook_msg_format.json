@@ -1,11 +1,15 @@
 {
-    "open": {{open}},
-    "high": {{high}},
-    "low": {{low}},
-    "close": {{close}},
-    "exchange": "{{exchange}}",
-    "ticker": "{{ticker}}",
-    "volume": {{volume}},
-    "time": "{{time}}",
-    "timenow": "{{timenow}}"
+  "open": { { "open" } },
+  "high": { { "high" } },
+  "low": { { "low" } },
+  "close": { { "close" } },
+  "exchange": "{{exchange}}",
+  "ticker": "{{ticker}}",
+  "quantity": { { "strategy.order.contracts" } },
+  "volume": { { "volume" } },
+  "time": "{{time}}",
+  "timenow": "{{timenow}}",
+  "kucoin_api_public_key": "",
+  "kucoin_api__secret_key": "",
+  "kucoin_api_pass": ""
 }

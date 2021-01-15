@@ -9,6 +9,7 @@
   "volume": { { "volume" } },
   "time": "{{time}}",
   "timenow": "{{timenow}}",
+  "tradeTYPE": "MARGIN",
   "kucoin_api_public_key": "",
   "kucoin_api__secret_key": "",
   "kucoin_api_pass": ""
